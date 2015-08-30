@@ -1,0 +1,13 @@
+GET /post_login.xml?hash=466a1bd8a60395670a2e91e79d080e97f12aa9a7&auth_code=&auth_id=BBD57 HTTP/1.1
+Host: 192.168.0.1
+Connection: keep-alive
+Referer: http://192.168.0.1/
+Cache-Control: no-cache
+If-Modified-Since: Wed, 15 Nov 1995 00:00:00 GMT
+Pragma: no-cache
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.3 (KHTML, like Gecko) Chrome/6.0.472.41 Safari/534.3
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: sv-SE,sv;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
